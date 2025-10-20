@@ -42,6 +42,7 @@ print(result_data)
 
 
 ## Output
+<img width="1249" height="795" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/8db95358-8e89-4225-a92b-1e961ab573e2" />
 
 ## Result
 Thus the program is executed successfully.

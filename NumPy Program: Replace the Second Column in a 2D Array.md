@@ -32,6 +32,7 @@ print(np.insert(c,1,b,axis=1))
 
 
 ## Output
+<img width="1282" height="593" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/d78d0c97-48fd-475c-bfc0-918848c097de" />
 
 ## Result
 Thus the program is executed successfully.

@@ -33,6 +33,7 @@ df = pd.DataFrame(exam_data , index=labels)
 print(df)
 
 ## Output
+<img width="1233" height="638" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/7b54e3b6-8bb1-4614-bf78-4d3b02205914" />
 
 ## Result
 Thus the program is executed successfully.

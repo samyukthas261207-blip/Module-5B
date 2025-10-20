@@ -29,6 +29,7 @@ print(np.where(l1>l2))
 print(np.where(l1==l2))
 
 ## Output
+<img width="1226" height="349" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/d057607d-8077-41d5-9845-5e9f3620cab3" />
 
 ## Result
 Thus the program is executed successfully.

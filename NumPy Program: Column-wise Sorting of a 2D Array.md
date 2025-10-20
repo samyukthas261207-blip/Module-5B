@@ -25,6 +25,7 @@ print()
 print(np.sort(b,axis=0))
 
 ## Output
+<img width="1096" height="778" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/5855d2a9-323c-4225-a1e1-0c33bdf195dc" />
 
 ## Result
 Thus the program is executed successfully.
